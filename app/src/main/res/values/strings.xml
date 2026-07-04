@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Grayscale</string>
+    <string name="accessibility_service_description">
+        Allows this app to switch your screen between grayscale and color
+        automatically based on who is looking at the front camera.
+    </string>
+</resources>
